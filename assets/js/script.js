@@ -4,7 +4,7 @@ $(document).ready(function() {
     var currentTime = dayjs().format("hA");
   
     // update header with current day and time
-    $("#currentDay").text("Today is " + currentDate + " and it's currently " + currentTime);
+    $("#currentDay").text("Today is " + currentDate);
   
     // loop through each time-block div and update its background color based on whether it's in the past, present, or future
     $(".time-block").each(function() {
