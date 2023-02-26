@@ -24,5 +24,6 @@ THEN the saved events persist
 ## Screenshot of the application
 ![Work Day Scheduler Homepage](assets/images/work-day-scheduler.png)
 
-GitHub link:
-Website link: 
+# GitHub link
+https://github.com/Dhruv-232/Work-Day-Planner
+# Website link 
