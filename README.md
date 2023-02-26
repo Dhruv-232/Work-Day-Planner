@@ -21,3 +21,8 @@ THEN the text for that event is saved in local storage
 * WHEN I refresh the page
 THEN the saved events persist
 
+## Screenshot of the application
+![Work Day Scheduler Homepage](assets/images/work-day-scheduler.png)
+
+GitHub link:
+Website link: 
