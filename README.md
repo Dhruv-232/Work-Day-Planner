@@ -26,4 +26,7 @@ THEN the saved events persist
 
 # GitHub link
 https://github.com/Dhruv-232/Work-Day-Planner
+
 # Website link 
+https://dhruv-232.github.io/Work-Day-Planner/
+
